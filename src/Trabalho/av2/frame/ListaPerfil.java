@@ -16,7 +16,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Claudir
+ * @author bruno
  */
 public class ListaPerfil extends javax.swing.JFrame {
 
