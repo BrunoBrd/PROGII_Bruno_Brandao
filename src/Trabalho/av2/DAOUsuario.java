@@ -22,7 +22,7 @@ public class DAOUsuario {
     Connection conexao = Conexao.criarConexao();
 
     public void salvarUsuario(Usuario usuario) {
-        String sql = "insert into tb_usuario"
+        String sql = "insert into usuario"
                 + "(nome, sobrenome)"
                 + "values(?,?)";
         try {
@@ -30,7 +30,7 @@ public class DAOUsuario {
             inserir.setString(1, usuario.getNome());
             inserir.setString(2, usuario.getSobrenome());
             inserir.executeUpdate();
-            JOptionPane.showMessageDialog(null, "Cadastro relizado com sucesso!");
+            JOptionPane.showMessageDialog(null, "Cadastro feito com sucesso");
         } catch (SQLException ex) {
             ex.printStackTrace();
            
