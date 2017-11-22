@@ -7,7 +7,7 @@ package Trabalho.av2;
 
 /**
  *
- * @author Claudir
+ * @author bruno
  */
 public class Usuario {
      private int id_usuario;
