@@ -18,7 +18,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Claudir
+ * @author bruno
  */
 public class ListaUsuario extends javax.swing.JFrame {
 
