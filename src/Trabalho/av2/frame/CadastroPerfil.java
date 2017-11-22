@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author aluno
+ * @author bruno
  */
 public class CadastroPerfil extends javax.swing.JFrame {
 
