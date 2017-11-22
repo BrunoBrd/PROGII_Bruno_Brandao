@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Claudir
+ * @author bruno
  */
 public class DAOPerfil {
     Connection conexao = Conexao.criarConexao();
