@@ -11,7 +11,7 @@ import java.sql.SQLException;
 
 /**
  *
- * @author Claudir
+ * @author bruno
  */
 public class Conexao {
 
