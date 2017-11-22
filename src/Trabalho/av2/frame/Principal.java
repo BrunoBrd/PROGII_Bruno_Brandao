@@ -15,7 +15,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author aluno
+ * @author bruno
  */
 public class Principal extends javax.swing.JFrame {
 
