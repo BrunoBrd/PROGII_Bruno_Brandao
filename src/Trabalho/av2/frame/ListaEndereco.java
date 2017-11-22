@@ -15,7 +15,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Claudir
+ * @author bruno
  */
 public class ListaEndereco extends javax.swing.JFrame {
 
