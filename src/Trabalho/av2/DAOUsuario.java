@@ -15,7 +15,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Claudir
+ * @author bruno
  */
 public class DAOUsuario {
 
